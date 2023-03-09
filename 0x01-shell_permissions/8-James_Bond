@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 000000007 hello
+chmod 000000007 hello
